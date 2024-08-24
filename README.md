@@ -95,3 +95,19 @@ This repository contains a collection of frontend projects.Each project is built
     
    
 </table>
+
+
+## Installation 🚀
+
+To run any of the projects locally, simply clone this repository using the following command:
+
+```bash
+git clone https://github.com/Arjun-Saroha/My-Projects/tree/main
+```
+## Usage 💻
+
+Each project is contained in its own directory, and can be opened and run directly in a web browser.
+
+## Contributing 🤝
+
+Contributions to this repository are welcome! If you have a project you'd like to add, simply create a new branch, add your project, and create a pull request.
