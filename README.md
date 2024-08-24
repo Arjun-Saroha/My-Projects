@@ -19,97 +19,79 @@ This repository contains a collection of frontend projects.Each project is built
     </tr>
     <tr>
         <td>02</td>
-        <td>Calculator</td>
-        <td><a href="./project-2_calculator">Click Here</a></td>
+        <td>prj10 drum kits</td>
+        <td><a href="https://github.com/Arjun-Saroha/My-Projects/tree/main/prj10%20drum%20kits">Click Here</a></td>
     </tr>
     <tr>
         <td>03</td>
-        <td>Wavy Login Form</td>
-        <td><a href="./project-3_wavy_login_form">Click Here</a></td>
+        <td>prj11 calender</td>
+        <td><a href="https://github.com/Arjun-Saroha/My-Projects/tree/main/prj11%20calender">Click Here</a></td>
     </tr>
     <tr>
         <td>04</td>
-        <td>Random Quote Generator</td>
-        <td><a href="./project-4_random_quote_generator">Click Here</a></td>
+        <td>prj12 tic tac toy</td>
+        <td><a href="https://github.com/Arjun-Saroha/My-Projects/tree/main/prj12%20tic%20tac%20toy">Click Here</a></td>
     </tr>
     <tr>
         <td>05</td>
-        <td>Random Background Changer</td>
-        <td><a href="./project-5_random_color_changer">Click Here</a></td>
+        <td>prj13 double click animation</td>
+        <td><a href="https://github.com/Arjun-Saroha/My-Projects/tree/main/prj13%20double%20click%20animation">Click Here</a></td>
     </tr>
     <tr>
         <td>06</td>
-        <td>Qr Code Generator</td>
-        <td><a href="./project-6_qr_code_generator">Click Here</a></td>
+        <td>prj14 simple calculator</td>
+        <td><a href="https://github.com/Arjun-Saroha/My-Projects/tree/main/prj14%20simple%20calculator">Click Here</a></td>
     </tr>
     <tr>
         <td>07</td>
-        <td>Stopwatch Timer</td>
-        <td><a href="./project-7_stopwatch_timer">Click Here</a></td>
+        <td>prj15 password validation</td>
+        <td><a href="https://github.com/Arjun-Saroha/My-Projects/tree/main/prj15%20password%20validation">Click Here</a></td>
     </tr>
     <tr>
         <td>08</td>
-        <td>Password Generator</td>
-        <td><a href="./project-8_password_generator">Click Here</a></td>
+        <td>prj16 rock paper seasior game</td>
+        <td><a href="https://github.com/Arjun-Saroha/My-Projects/tree/main/prj16%20rock%20paper%20seasior%20game">Click Here</a></td>
     </tr>
     <tr>
         <td>09</td>
-        <td>Responsive Navbar</td>
-        <td><a href="./project-9_responsive_navbar">Click Here</a></td>
+        <td>prj2 random color</td>
+        <td><a href="https://github.com/Arjun-Saroha/My-Projects/tree/main/prj2%20random%20color">Click Here</a></td>
     </tr>
     <tr>
         <td>10</td>
-        <td>404 Error Page</td>
-        <td><a href="./project-10_404_error_page">Click Here</a></td>
+        <td>prj3 counter</td>
+        <td><a href="https://github.com/Arjun-Saroha/My-Projects/tree/main/prj3%20counter">Click Here</a></td>
     </tr>
     <tr>
         <td>11</td>
-        <td>Analog Clock</td>
-        <td><a href="./project-11_analog_clock">Click Here</a></td>
+        <td>prj4 animated cursor</td>
+        <td><a href="https://github.com/Arjun-Saroha/My-Projects/tree/main/prj4%20animated%20cursor">Click Here</a></td>
     </tr>
     <tr>
         <td>12</td>
-        <td>Contact Form</td>
-        <td><a href="./project-12_contact_form">Click Here</a></td>
+        <td>prj5 random joke generator</td>
+        <td><a href="https://github.com/Arjun-Saroha/My-Projects/tree/main/prj5%20random%20joke%20generator">Click Here</a></td>
     </tr>
     <tr>
         <td>13</td>
-        <td>Profile Card</td>
-        <td><a href="./project-13_profile_card">Click Here</a></td>
+        <td>prj6 country guide</td>
+        <td><a href="https://github.com/Arjun-Saroha/My-Projects/tree/main/prj6%20country%20guide">Click Here</a></td>
     </tr>
     <tr>
         <td>14</td>
-        <td>Music Preloader</td>
-        <td><a href="./project-14_music_loader">Click Here</a></td>
+        <td>prj7 to do list app</td>
+        <td><a href="https://github.com/Arjun-Saroha/My-Projects/tree/main/prj7%20to%20do%20list%20app">Click Here</a></td>
     </tr>
     <tr>
         <td>15</td>
-        <td>Currency Converter</td>
-        <td><a href="./project-15_currrency_convertor">Click Here</a></td>
+        <td>prj8 stop watch</td>
+        <td><a href="https://github.com/Arjun-Saroha/My-Projects/tree/main/prj8%20stop%20watch">Click Here</a></td>
     </tr>
     <tr>
         <td>16</td>
-        <td>Pricing card</td>
-        <td><a href="./project-16_pricing_component">Click Here</a></td>
+        <td>prj9 rotating image gallery</td>
+        <td><a href="https://github.com/Arjun-Saroha/My-Projects/tree/main/prj9%20rotating%20image%20gallery">Click Here</a></td>
     </tr>
-    <tr>
-        <td>17</td>
-        <td>Background Remover App</td>
-        <td><a href="./project-17_remove_Signature_bg">Click Here</a></td>
-    </tr>
-    <tr>
-        <td>18</td>
-        <td>Toggle Dark & Light Mode</td>
-        <td><a href="./project-18_toggle_dark_light_mode">Click Here</a></td>
-    </tr>
-    <tr>
-        <td>19</td>
-        <td>Weather App</td>
-        <td><a href="./project-19_weather_app">Click Here</a></td>
-    </tr>
-    <tr>
-        <td>20</td>
-        <td>Bubble Game</td>
-        <td><a href="./project-20_bubble_game">Click Here</a></td>
-    </tr>
+    
+   
 </table>
