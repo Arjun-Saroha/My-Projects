@@ -16,10 +16,10 @@ This repository contains a collection of frontend projects.Each project is built
         <td>01</td>
         <td>prj1 message pass</td>
         <td><a href="https://github.com/Arjun-Saroha/My-Projects/tree/main/prj1%20message%20pass">Click Here</a></td>
-        screenshot 
-        ![image](https://github.com/user-attachments/assets/db363ef6-2f1a-4611-af3e-50d402454455)
+       <a img src="![image](https://github.com/user-attachments/assets/66517d80-5c90-4226-9131-9c36b72ea10a)
+"></a>
 
-    </tr>
+ </tr>
     <tr>
         <td>02</td>
         <td>prj10 drum kits</td>
